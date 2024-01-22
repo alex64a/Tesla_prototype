@@ -40,6 +40,10 @@ This is a private project developed with Armour grade https://armourgrade.com/.
 1. Clone the git repository
 2. Upload the code to the microcontroller via Arduino IDE
 
+
+## Demonstration
+![tesla_prototype](https://github.com/alex64a/Tesla_prototype/assets/50616697/405fe152-00d6-461d-8353-3a5485d6b956)
+
 ## Credits
 
 Srdjan Srdić, Ninoslav Srdić
